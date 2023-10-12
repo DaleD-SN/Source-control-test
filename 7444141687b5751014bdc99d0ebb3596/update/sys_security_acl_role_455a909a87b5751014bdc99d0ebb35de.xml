@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-12 09:47:46</sys_created_on>
+        <sys_id>455a909a87b5751014bdc99d0ebb35de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_source_con_0_task_table.x_snc_source_con_0.admin</sys_name>
+        <sys_package display_value="Source control test" source="x_snc_source_con_0">7444141687b5751014bdc99d0ebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source control test">7444141687b5751014bdc99d0ebb3596</sys_scope>
+        <sys_security_acl display_value="x_snc_source_con_0_task_table">055a909a87b5751014bdc99d0ebb35da</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_455a909a87b5751014bdc99d0ebb35de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-12 09:47:46</sys_updated_on>
+        <sys_user_role display_value="x_snc_source_con_0.admin" name="x_snc_source_con_0.admin">7044141687b5751014bdc99d0ebb359c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
