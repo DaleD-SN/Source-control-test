@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Source control test default AI Search Configuration">7a51be1b54d5da1071848da5acc7dbd1</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 19:12:28</sys_created_on>
+        <sys_id>3e51be1b92d5da1068219099d2d3d0d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Source control test" source="x_snc_source_con_0">7444141687b5751014bdc99d0ebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source control test">7444141687b5751014bdc99d0ebb3596</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_3e51be1b92d5da1068219099d2d3d0d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 19:12:28</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

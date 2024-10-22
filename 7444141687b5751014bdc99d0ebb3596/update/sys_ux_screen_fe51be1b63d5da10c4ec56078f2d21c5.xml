@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Source control test default App Config">3251be1b38d5da1029b677a858e68fda</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent display_value="Dashboards">163a913b532c0110aab9ddeeff7b1241</macroponent>
+        <macroponent_config/>
+        <name>Dashboards Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Dashboards">f651be1b5ed5da106122dc6e8d5c54cd</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 19:12:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe51be1b63d5da10c4ec56078f2d21c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboards Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Source control test" source="x_snc_source_con_0">7444141687b5751014bdc99d0ebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source control test">7444141687b5751014bdc99d0ebb3596</sys_scope>
+        <sys_update_name>sys_ux_screen_fe51be1b63d5da10c4ec56078f2d21c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 19:12:28</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe51be1b63d5da10c4ec56078f2d21c5"/>
+</record_update>

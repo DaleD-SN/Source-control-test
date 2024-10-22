@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type/>
+        <description/>
+        <local_or_existing/>
+        <name>now.source-control-test-default.*</name>
+        <operation display_value="read">read</operation>
+        <script><![CDATA[answer = gs.getSession().isLoggedIn();
+if (!answer) {
+    answer = gs.getProperty('glide.security.allow_unauth_roleless_acl', false);
+}]]></script>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 19:12:28</sys_created_on>
+        <sys_id>7e51be1bd8d5da106bda97b54e3ecdd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.source-control-test-default.*</sys_name>
+        <sys_package display_value="Source control test" source="x_snc_source_con_0">7444141687b5751014bdc99d0ebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source control test">7444141687b5751014bdc99d0ebb3596</sys_scope>
+        <sys_update_name>sys_security_acl_7e51be1bd8d5da106bda97b54e3ecdd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 19:12:28</sys_updated_on>
+        <type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type>
+    </sys_security_acl>
+</record_update>

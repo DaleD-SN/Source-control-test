@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Source control test default">7e51be1b48d5da100a733e502f3009da</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 19:12:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>3e51be1bafd5da10ee700929ea4edec8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Source control test" source="x_snc_source_con_0">7444141687b5751014bdc99d0ebb3596</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source control test">7444141687b5751014bdc99d0ebb3596</sys_scope>
+        <sys_update_name>sys_ux_page_property_3e51be1bafd5da10ee700929ea4edec8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 19:12:31</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_source_con_0.7e51be1b48d5da100a733e502f3009da.root.global.listConfigId</unique_name>
+        <value>3b51fe1b83d5da106fc8ccc0deaad3fe</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e51be1bafd5da10ee700929ea4edec8"/>
+</record_update>
